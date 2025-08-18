@@ -1,0 +1,8 @@
+# Ignorar entorno virtual
+env/
+
+# Ignorar credenciales sensibles
+.env
+
+# Ignorar credenciales sensibles
+data/
